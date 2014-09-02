@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Acerca de mí
 permalink: /about/
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Actualmente trabajo en [Pi](https://github.com/IanMezza/ThePi), el proyecto para obtener mi título como Ing. en Comunicaciones y Electrónica, y comienzo a experimentar con el desarrollo web.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Actualmente sigo muy de cerca el movimiento *maker* en México y sobre todo la comunidad de [Nodebots México](https://twitter.com/NodeBotsMX), en la cual he platicado acerca de mis proyectos y a la cual espero aportar aún más.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
