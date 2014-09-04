@@ -10,7 +10,7 @@ Para quienes no lo saben, el ChelaJS es **una reunión mensual donde developers 
 
 Ayer se celebró el ChelaJS número 11 y espero que sigan muchos más. 
 
-![ChelaJS 11](../images/chelajs.JPG "ChelaJS 11")
+![ChelaJS 11](/../images/chelajs.JPG "ChelaJS 11")
 
 Con esto termino de platicar cómo fue que un eléctrónico decidió caminar en otra dirección, la del desarrollo web.
 
